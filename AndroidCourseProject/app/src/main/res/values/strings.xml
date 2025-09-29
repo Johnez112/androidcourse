@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidCourseProject</string>
+    <string name="title_home">Etusivu</string>
+    <string name="title_dashboard">Kauppalista</string>
+    <string name="title_notifications">Data</string>
+</resources>
