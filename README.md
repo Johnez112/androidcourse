@@ -35,3 +35,9 @@ Project contains its own `README.md` with detailed **setup and compilation instr
 - All projects are written in **Java**.  
 - Target API level is **31**.  
 - The projects are for learning purposes.
+---
+## Declare of using AI
+
+- Any AI is not used on generating code for my course exercises. I used GPT-5 to solve 2 bugs. I also used GPT-5 to proofread my learning diaries and format ReadME text to markdown format.
+
+---
